@@ -1,16 +1,15 @@
 [
   {
-    "key": "CTIC",
-    "latitude": -12.01671746032968,
-    "longitude": -77.04979816275112,
-    "name": "CTIC"
+    "key": "SE",
+    "latitude": 60.128161,
+    "longitude": 18.643501,
+    "name": "Sweden"
   },
   {
-    "key": "CEPS",
-    "latitude": -12.022898886125853,
-    "longitude": -77.04988190874325,
-    "name": "CEPS"
+    "key": "US",
+    "latitude": 37.09024,
+    "longitude": -95.712891,
+    "name": "United States"
   }
 ]
-
 
